@@ -1,0 +1,55 @@
+{
+  "archive": "rights-hold preservation partner mirror",
+  "campaign": "Q4 Morning Reset",
+  "note": "Entries indexed by clip identifier. Transcripts archived before delisting.",
+  "clips": [
+    {
+      "clip_id": "kR7mQ2xVt9A",
+      "creator": "@dr_wellness_lab",
+      "runtime_seconds": 30,
+      "delisted_on": "2026-10-08",
+      "transcript": "[♪ soft intro music ♪] Welcome back, everyone. This is the tonic that cures joint pain at the source. No needles, no pills. My grandmother's formula treats arthritis in seven days, guaranteed. If you want the full routine, subscribe for part two. [♪ outro ♪]",
+      "preservation_note": null
+    },
+    {
+      "clip_id": "wP3xN8qLm2B",
+      "creator": "@fitbrothers",
+      "runtime_seconds": 45,
+      "delisted_on": "2026-10-11",
+      "transcript": "Hey team, quick one before the weekend. We are rated number one by everyday athletes and honestly the best in the world programme for busy professionals. Our investment partners have seen guaranteed returns three years running, no joke. Act now, because this enrolment window is limited time only. Link in bio. [♪ upbeat outro ♪]",
+      "preservation_note": null
+    },
+    {
+      "clip_id": "tD5yH9rJk4C",
+      "creator": "@calmdesk",
+      "runtime_seconds": 20,
+      "delisted_on": "2026-10-15",
+      "transcript": "Join our risk-free investment webinar this Thursday at 7pm. It is a relaxed session, no jargon. Act now and secure your seat, the offer ends soon. Bring a notebook and your questions. [ambient room tone]",
+      "preservation_note": null
+    },
+    {
+      "clip_id": "mF2bW6zQp8D",
+      "creator": "@movementdaily",
+      "runtime_seconds": 25,
+      "delisted_on": "2026-10-18",
+      "transcript": "Good morning. Our team walks you through simple morning stretches and breathing routines you can do at your desk. Take it at your own pace, there is no pressure at all. Remember to hydrate and enjoy the rest of your day. [♪ gentle outro ♪]",
+      "preservation_note": null
+    },
+    {
+      "clip_id": "nC9vR4sXg7E",
+      "creator": "@lumen_partner",
+      "runtime_seconds": 15,
+      "delisted_on": "2026-10-22",
+      "transcript": "Quick bundle update: only 3 left in this starter bundle, so if you have been waiting this is your moment. Order before midnight and we will throw in the travel kit for free. See the pinned comment for details. [♪ short outro ♪]",
+      "preservation_note": null
+    },
+    {
+      "clip_id": "bZ1aK8tYw5F",
+      "creator": "@morning_reset_studio",
+      "runtime_seconds": 40,
+      "delisted_on": "2026-10-27",
+      "transcript": null,
+      "preservation_note": "Rights-hold notice: the transcript for this clip was not preserved. The asset was delisted following a music-licensing dispute and no audio record is held in this mirror. Platform copy is unavailable."
+    }
+  ]
+}
